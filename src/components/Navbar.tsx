@@ -64,7 +64,10 @@ const Navbar = () => {
 
         {/* Right side */}
         <div className="flex items-center gap-2">
-          <Link to="/instructor" className="hidden text-sm font-medium text-muted-foreground transition-colors hover:text-foreground lg:block">
+          <Link to="/huggingface" className="hidden text-sm font-medium text-muted-foreground transition-colors hover:text-foreground lg:block">
+            🤗 Hugging Face
+          </Link>
+          <Link to="/instructor" className="hidden text-sm font-medium text-muted-foreground transition-colors hover:text-foreground xl:block">
             Become an Instructor
           </Link>
 
