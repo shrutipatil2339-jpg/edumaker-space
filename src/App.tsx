@@ -13,6 +13,7 @@ import Signup from "./pages/Signup.tsx";
 import Dashboard from "./pages/Dashboard.tsx";
 import InstructorDashboard from "./pages/InstructorDashboard.tsx";
 import AdminDashboard from "./pages/AdminDashboard.tsx";
+import HuggingFaceGuide from "./pages/HuggingFaceGuide.tsx";
 import NotFound from "./pages/NotFound.tsx";
 
 const queryClient = new QueryClient();
