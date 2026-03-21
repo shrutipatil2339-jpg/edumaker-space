@@ -3,8 +3,8 @@ import { motion } from "framer-motion";
 import {
   Search, Brain, Cpu, MessageSquare, Image, Mic, Languages, FileText, Sparkles,
   BookOpen, Users, Building2, Code, Play, ArrowRight, ChevronRight, Send,
-  Lightbulb, Zap, HardDrive, Clock, CheckCircle2, ExternalLink, Star,
-  LayoutGrid, Globe, Terminal, Layers
+  Zap, Clock, CheckCircle2, ExternalLink,
+  LayoutGrid, Globe
 } from "lucide-react";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
